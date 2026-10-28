@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Sanny Maimela 👋
+IT Student | Aspiring Software Developer
 
-<!--
-**sannymmaphuti-hub/sannymmaphuti-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student from South Africa passionate about technology, software development, and solving real-world problems.
 
-Here are some ideas to get you started:
+I'm continuously developing my programming skills by building practical projects and learning how software works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Skills
+Languages: Python, HTML, CSS
+Interests: Software Development, IT Support, Computer Systems
+Tools: Git, GitHub, Visual Studio Code
+Currently learning: Programming, databases, and software engineering fundamentals
+🚀 Projects
+
+I use GitHub to document my learning journey, build practical applications, and improve my technical skills.
+
+Explore my repositories to see what I'm building.
+
+🎯 Goals
+Develop strong programming and problem-solving skills.
+Build reliable, useful software.
+Gain practical experience through IT internships and learnerships.
+Grow into a skilled IT professional.
+📫 Connect with me
+GitHub: @sannymmaphuti-hub
+
+Learning continuously. Building consistently. Improving every day.
