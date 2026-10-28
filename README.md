@@ -1,4 +1,5 @@
-Sanny Maimela
+Hi, I'm Sanny Maimela 👋
+
 IT Student | Technology Enthusiast | Problem Solver
 
 I'm an IT student from South Africa driven by one question: How does technology work, and how can I make it work better?
