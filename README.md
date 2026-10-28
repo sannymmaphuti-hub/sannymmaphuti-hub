@@ -1,50 +1,62 @@
 Hi, I'm Sanny Maimela 👋
 
-IT Student | Technology Enthusiast | Problem Solver
+IT Student | Aspiring Software Developer | Technology Enthusiast
 
-I'm an IT student from South Africa driven by one question: How does technology work, and how can I make it work better?
+I'm an IT student from South Africa with a strong interest in understanding how technology works—from computer hardware and operating systems to software development, networking, and troubleshooting.
 
-My interests span software development, computer hardware, operating systems, networking, and technical troubleshooting. I'm fascinated by both the software that powers our devices and the physical components that bring them to life.
+I learn by building practical projects, investigating problems, and continuously strengthening my technical foundations.
 
-I believe the best way to understand technology is to explore it, build with it, break problems down, and learn how to solve them.
+🚀 Featured Projects
+🖥️ Windows Technician
 
-Areas I Explore
-Area	My Interests
-Software Development	Building practical applications and tools
-Computer Hardware	Computer components, PC assembly, upgrades, and diagnostics
-Systems & Operating Systems	Understanding how computers operate and how to troubleshoot them
-Networking	Connectivity, communication, and network fundamentals
-IT Support	Diagnosing technical problems and finding effective solutions
-Cybersecurity	Learning how systems can be protected and secured
-Selected Projects
+A Python-based Windows diagnostic and troubleshooting project designed to help users understand system problems and identify possible solutions.
 
-I'm building a collection of practical projects that reflect my interests, technical growth, and approach to problem-solving.
+Technologies: Python
 
-Explore my repositories: github.com/sannymmaphuthi-hub
+Explore Windows Technician
 
-As my projects evolve, I aim to make them useful, well-documented, and accessible to other developers and technology enthusiasts.
+🚗 Kasi2Kasi
 
-Technologies & Tools
+A Django-based community transport platform designed around local mobility needs, with customer and driver workflows, ride management, and journey tracking.
 
-Python · HTML · CSS · Git · GitHub · VS Code
+Technologies: Python, Django, HTML, CSS, JavaScript
 
-My toolkit continues to grow as I learn and build.
+Explore Kasi2Kasi
 
-Beyond the Code
+🌐 Sanny Web Solution
 
-I'm interested in understanding the complete picture of technology: from the hardware inside a computer to the operating system managing its resources, the network connecting it to the world, and the software people use every day.
+A web development project focused on creating clean, modern websites.
 
-I'm particularly interested in hands-on learning, technical problem-solving, and turning ideas into working solutions.
+Technologies: HTML, CSS
 
-Currently Focused On
+Explore Sanny Web Solution
+
+🍽️ Kokwane Street Catering
+
+A responsive website project for a local catering business, designed to work across desktop, tablet, and mobile screens.
+
+Technologies: HTML, CSS
+
+Explore Kokwane Street Catering
+
+🛠️ Technologies & Tools
+Programming: Python
+Web Development: HTML, CSS
+Tools: Git, GitHub, Visual Studio Code
+Other interests: Computer architecture, operating systems, networking, IT support, and cybersecurity fundamentals
+
+I'm continuously expanding my skills through study, experimentation, and project development.
+
+🎯 Currently Working On
 Strengthening my programming and computer science fundamentals.
-Expanding my practical IT and troubleshooting skills.
-Building projects that demonstrate real technical ability.
-Preparing for opportunities to gain professional, hands-on IT experience.
-My Approach
+Developing Windows diagnostic and troubleshooting capabilities.
+Building Kasi2Kasi into a practical community-focused platform.
+Improving my software development workflow and testing practices.
+Preparing for opportunities to gain professional IT experience.
+💡 My Approach
 
 Stay curious. Understand the problem. Build the solution. Keep improving.
 
-I'm at the beginning of my professional journey, and I'm using every project as an opportunity to become a better problem solver and a more capable IT professional.
+I'm at the beginning of my professional journey, and every project is an opportunity to become a better problem solver and a more capable IT professional.
 
-Location: South Africa 🇿🇦
+📍 South Africa
